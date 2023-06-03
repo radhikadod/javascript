@@ -46,6 +46,7 @@ class Vehicle {
 
 
 console.log("**********College details*************");
+
     traverseObject(coep);
     console.log("-------------------------------------");
     traverseObject(nmims);
